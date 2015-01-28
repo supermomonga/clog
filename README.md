@@ -1,6 +1,6 @@
 # clog
 
-FIXME
+Clog is the simple weblog application written in Clojure.
 
 ## Prerequisites
 
@@ -15,5 +15,7 @@ To start a web server for the application, run:
     lein ring server
 
 ## License
+
+未定
 
 Copyright © 2015 FIXME
